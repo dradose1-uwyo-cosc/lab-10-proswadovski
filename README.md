@@ -1,7 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+# [Peyton Roswadovski]
+## [Assignment #10]
+## [Submission date: 11/24/24]
+## Worked with/sources: Lab TAs
 * example
 * example
 * example
